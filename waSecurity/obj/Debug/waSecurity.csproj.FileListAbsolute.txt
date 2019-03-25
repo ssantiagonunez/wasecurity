@@ -1,0 +1,16 @@
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\bin\Debug\waSecurity.exe.config
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\bin\Debug\waSecurity.exe
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\bin\Debug\waSecurity.pdb
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.Form1.resources
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.Properties.Resources.resources
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.csproj.GenerateResource.cache
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.csproj.CoreCompileInputs.cache
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.exe
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.pdb
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.AnadirApartamento.resources
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.AnadirVehiculo.resources
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.Records.resources
+E:\Projects\CLIENTES\WA SECURITY\wasecurity\waSecurity\obj\Debug\waSecurity.VerTablas.resources
+E:\Projects\CLIENTES\WA SECURITY\wasecurity\waSecurity\obj\Debug\waSecurity.clave.resources
+E:\Projects\CLIENTES\WA SECURITY\wasecurity\waSecurity\obj\Debug\waSecurity.csprojAssemblyReference.cache
+E:\Projects\CLIENTES\WA SECURITY\waSecurity\waSecurity\obj\Debug\waSecurity.AnadirPersona.resources
