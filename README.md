@@ -7,5 +7,6 @@ The security guard asks the visitor to what apartment is he going, then he searc
 
 # Development tools
 
-*Visual Studio 2017.
-*C# + SQL Server
+* Bullet list
+  Visual Studio 2017.
+  C# + SQL Server
