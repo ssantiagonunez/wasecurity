@@ -90,9 +90,9 @@ namespace waSecurity
 
                 label2.Text = "Registro creado.";
             }
-            catch (Exception ex)
+            catch
             {
-                label2.Text = "No se pudo crear un registro " + ex;
+                label2.Text = "No se pudo crear un registro ";
             }
 
             con.Close();
