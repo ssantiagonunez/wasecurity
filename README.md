@@ -1,4 +1,4 @@
-# wasecurity
+# Wasecurity
 Desktop app that saves residents and visitors information and keeps record of when a visitor comes.
 
 # How it works
@@ -7,4 +7,4 @@ The security guard asks the visitor to what apartment is he going, then he searc
 
 # Development tools 
 * Visual Studio 2017.
-* C# + SQL Server
+* C# + SQL Server.
